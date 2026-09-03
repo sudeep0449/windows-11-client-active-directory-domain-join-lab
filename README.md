@@ -26,9 +26,10 @@ A hands-on lab demonstrating the full lifecycle of bringing a Windows 11 client 
 
 Successfully deployed and configured a Windows 11 client in an Active Directory environment and validated domain connectivity, authentication, and shared resource access — including confirming the client joined the `sudeep.local` domain and could browse departmental shares such as `CompanyData`.
 
-## Full Documentation
+## Repository Contents
 
-[`Joining a Windows 11 Client to an Active Directory Domain.pdf`](<./Joining a Windows 11 Client to an Active Directory Domain.pdf>) contains the full step-by-step write-up with all implementation screenshots.
+- [`Joining a Windows 11 Client to an Active Directory Domain.pdf`](<./Joining a Windows 11 Client to an Active Directory Domain.pdf>) — full step-by-step write-up
+- [`client windows 11 SS/`](<./client windows 11 SS>) — implementation evidence (client installation, domain join, and shared resource access)
 
 ## Author
 
