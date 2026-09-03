@@ -6,7 +6,7 @@ A hands-on lab demonstrating the full lifecycle of bringing a Windows 11 client 
 
 ## Environment
 
-- **Client:** Windows 11 Pro (`Clienxt01`), running in Oracle VirtualBox
+- **Client:** Windows 11 Pro (`Client01`), running in Oracle VirtualBox
 - **Domain Controller:** Windows Server 2022, domain `sudeep.local`
 - **Organizational Units:** `Finance`, `HR`, `IT`, `Staff`, `Finance Team`, `HR Team`, `IT support`
 - **Sample domain users:** David Lee, Mike Brown, John Smith, Sarah Wilson
